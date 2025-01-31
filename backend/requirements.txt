@@ -1,0 +1,15 @@
+flask
+flask-cors
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+chromadb
+pypdf2
+selenium
+pandas
+sentence-transformers
+pillow
+SpeechRecognition
+pyaudio
+pypdf
